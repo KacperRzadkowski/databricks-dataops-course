@@ -6,6 +6,11 @@
 
 # COMMAND ----------
 
+
+
+
+# COMMAND ----------
+
 # MAGIC %md
 # MAGIC
 # MAGIC ## Topic: Repository structure
@@ -38,7 +43,3 @@
 # MAGIC ## Topic: Notebook shortcuts
 # MAGIC
 # MAGIC Take a quick look at the shortcuts for notebooks by pressing Help->Shortcuts in the menu, or pressing `h`.
-
-# COMMAND ----------
-
-

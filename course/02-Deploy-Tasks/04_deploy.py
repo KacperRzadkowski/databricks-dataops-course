@@ -48,6 +48,8 @@
 # MAGIC %md
 # MAGIC
 # MAGIC Answer here...
+# MAGIC
+# MAGIC A job is a set of instructions whereas a job run is the execution of that said job.
 
 # COMMAND ----------
 
@@ -61,6 +63,8 @@
 # MAGIC %md
 # MAGIC
 # MAGIC Answer here...
+# MAGIC
+# MAGIC acme_transport_taxinyc_prep_dev_kacperrzadkowski_featkr1118_4972d85a
 
 # COMMAND ----------
 
@@ -73,6 +77,9 @@
 # MAGIC %md
 # MAGIC
 # MAGIC Answer here...
+# MAGIC
+# MAGIC {'run_id': 663744672316503, 'number_in_job': 663744672316503}
+# MAGIC
 
 # COMMAND ----------
 

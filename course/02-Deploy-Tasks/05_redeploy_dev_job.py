@@ -1,6 +1,11 @@
 # Databricks notebook source
 # MAGIC %md
 # MAGIC
+
+# COMMAND ----------
+
+# MAGIC %md
+# MAGIC
 # MAGIC # Redeploy
 # MAGIC
 
